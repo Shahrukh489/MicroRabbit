@@ -1,3 +1,6 @@
+using MicroRabbit.Domain.Core.Commands;
+using MicroRabbit.Domain.Core.Events;
+
 namespace MicroRabbit.Domain.Core.Bus
 {
     public interface IEventBus
@@ -6,6 +9,6 @@ namespace MicroRabbit.Domain.Core.Bus
          void Publish<T>(T @event ) where T : Event;
          void Subscribe<T, TH>()
             where T : Event
-            where TH : IEventHandler<T>
+            where TH : IEventHandler<T>;
     }
 }
