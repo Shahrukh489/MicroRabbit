@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rookm\\OneDrive\\Desktop\\Projects\\RabbitMQDemo\\MicroRabbit\\Domain\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {}
+    "/Users/shahrukhali/Documents/Projects/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rookm\\OneDrive\\Desktop\\Projects\\RabbitMQDemo\\MicroRabbit\\Domain\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+    "/Users/shahrukhali/Documents/Projects/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rookm\\OneDrive\\Desktop\\Projects\\RabbitMQDemo\\MicroRabbit\\Domain\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectUniqueName": "/Users/shahrukhali/Documents/Projects/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
         "projectName": "MicroRabbit.Domain.Core",
-        "projectPath": "C:\\Users\\rookm\\OneDrive\\Desktop\\Projects\\RabbitMQDemo\\MicroRabbit\\Domain\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\rookm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rookm\\OneDrive\\Desktop\\Projects\\RabbitMQDemo\\MicroRabbit\\Domain\\MicroRabbit.Domain.Core\\obj\\",
+        "projectPath": "/Users/shahrukhali/Documents/Projects/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/Users/shahrukhali/.nuget/packages/",
+        "outputPath": "/Users/shahrukhali/Documents/Projects/MicroRabbit/MicroRabbit/Domain/MicroRabbit.Domain.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rookm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/shahrukhali/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
